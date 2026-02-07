@@ -1,6 +1,6 @@
 # Documentation Hub
 
-This folder keeps the reference notes a junior developer will need to work on the Crate Player project. Everything is written in simple English and split by topic:
+This folder keeps the reference notes .
 
 - [`api.md`](./api.md) – How we talk to the Audius API, required query parameters, and the response structure the app expects.
 - [`hld.md`](./hld.md) – High-level design: the user journey, the major building blocks, and how the browser, React, and Audius interact.
