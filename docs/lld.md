@@ -1,7 +1,5 @@
 # Low-level design (LLD)
 
-This document zooms into each module so a junior dev can change behavior without guessing.
-
 ## 1. Modules & responsibilities
 
 ### `src/hooks/useAudiusTrending.js`
