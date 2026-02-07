@@ -1,7 +1,5 @@
 # High-level design (HLD)
 
-**Goal:** show a junior developer what happens from the moment the page loads until music plays, without diving into line-by-line code.
-
 ## 1. User journey summary
 
 1. User opens the site (Vite serves `index.html`).
